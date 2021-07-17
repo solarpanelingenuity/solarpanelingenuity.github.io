@@ -251,7 +251,7 @@ Content
 
 .content p {
   font-size: 16px;
-  color: #eee;
+  color: #000;
   line-height: 25px;
   margin-top: 10px;
 }
@@ -283,7 +283,7 @@ Content
 }
 
 a.brand-logo {
-  color: #eee;
+  color: #000;
   font-weight: 400;
   font-size: 40px;
   line-height: 45px;
@@ -294,13 +294,13 @@ a.brand-logo {
 }
 
 .copy-right p {
-  color: #aaa;
+  color: #000;
   font-size: 15px;
   line-height: 25px;
 }
 
 .copy-right p a {
-  color: #fff;
+  color: #000000bf;
 }
 
 /*--------------------
@@ -327,7 +327,7 @@ Image
   margin: 0;
   font-size: 100px !important;
   font-weight: 700;
-  color: #fff;
+  color: #000;
   line-height: 100px;
   text-transform: uppercase;
 }
@@ -354,8 +354,8 @@ Image
 }
 
 .w3l-coming-soon-page p {
-  color: #fff;
-  opacity: 0.8;
+  color: #000000;
+  opacity: 100;
   letter-spacing: 1px;
   text-transform: capitalize;
 }
